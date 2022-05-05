@@ -1,8 +1,8 @@
 penrose penrose; // define objects
 
 void setup(){
-  size(300, 400);
-  penrose = new penrose(160, 25, 50, 50); // generate object
+  size(900, 900);
+  penrose = new penrose(800, 125, 50, 50); // generate object
 }
 
 void draw(){
