@@ -1,0 +1,12 @@
+= readme
+
+== what is this
+おもにアイコンを生成するためのProcessingスケッチ
+
+== notice
+Processing 3系で作成
+
+== LICENSE
+MIT
+
+画像はCC-BY
